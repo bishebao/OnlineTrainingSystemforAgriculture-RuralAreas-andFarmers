@@ -1,0 +1,2 @@
+# OnlineTrainingSystemforAgriculture,RuralAreas,andFarmers
+ Java毕业设计-基于SSM框架的三农在线培训系统
