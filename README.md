@@ -1,5 +1,35 @@
 # OnlineTrainingSystemforAgriculture,RuralAreas,andFarmers
  Java毕业设计-基于SSM框架的三农在线培训系统
+ 
+毕设宝（https://www.bishebao.com) （本站提供计算机毕业设计源码和论文）
+
+【支持远程调试运行和定制化开发】
+
+无需注册即可购买！！！
+
+客服WX：WXX-13141314
+
+客服WX：teach007x
+
+qq：821383660
+
+
+1、成品购买：https://www.bishebao.com/ （注：部分商品在库存还未上架，可跟客服确认有无）
+
+2、定制化开发流程
+
+（1）加客服wx，描述需求功能清单、工时
+
+（2）沟通预算（开发前需支付20%定金，功能验收无误后付尾款，交付）
+
+（3）建讨论群(客服/开发人员/客户)
+
+（4）正式开发，有问题及时讨论群沟通调整
+
+tips：需要远程调试的，请提前下载好向日葵。方便工程师远程支持。
+成品项目列表： 基于PHP的无框架企业仓储管理系统
+
+ 
 <h2>项目简介</h2>
 <h2>项目技术</h2>
 <ul dir="auto">
@@ -51,4 +81,4 @@
 </div>
 </div>
 <h2>功能截图</h2>
-<img class="aligncenter size-full wp-image-13550" src="https://www.bishebao.com/wp-content/uploads/2024/06/image_4-5.png" alt="" width="1910" height="855" /> <img class="aligncenter size-full wp-image-13551" src="https://www.bishebao.com/wp-content/uploads/2024/06/image_5-5.png" alt="" width="1910" height="855" /> <img class="aligncenter size-full wp-image-13552" src="https://www.bishebao.com/wp-content/uploads/2024/06/image_6-5.png" alt="" width="1910" height="855" /> <img class="aligncenter size-full wp-image-13553" src="https://www.bishebao.com/wp-content/uploads/2024/06/image_7-5.png" alt="" width="1910" height="855" /> <img class="aligncenter size-full wp-image-13554" src="https://www.bishebao.com/wp-content/uploads/2024/06/image_8-5.png" alt="" width="1910" height="855" /> <img class="aligncenter size-full wp-image-13555" src="https://www.bishebao.com/wp-content/uploads/2024/06/image_9-5.png" alt="" width="1910" height="855" /> <img class="aligncenter size-full wp-image-13556" src="https://www.bishebao.com/wp-content/uploads/2024/06/image_10-4.png" alt="" width="1910" height="855" /> <img class="aligncenter size-full wp-image-13557" src="https://www.bishebao.com/wp-content/uploads/2024/06/image_11.png" alt="" width="1910" height="855" /> <img class="aligncenter size-full wp-image-13558" src="https://www.bishebao.com/wp-content/uploads/2024/06/image_12.png" alt="" width="1910" height="855" /> <img class="aligncenter size-full wp-image-13559" src="https://www.bishebao.com/wp-content/uploads/2024/06/image_1-5.png" alt="" width="1910" height="855" /> <img class="aligncenter size-full wp-image-13560" src="https://www.bishebao.com/wp-content/uploads/2024/06/image_2-5.png" alt="" width="1910" height="855" /> <img class="aligncenter size-full wp-image-13561" src="https://www.bishebao.com/wp-content/uploads/2024/06/image_3-5.png" alt="" width="1910" height="855" />
+<img class="aligncenter size-full wp-image-13550" src="https://www.bishebao.com/wp-content/uploads/2024/06/image_4-5.png" alt="" width="1910" height="400" /> <img class="aligncenter size-full wp-image-13551" src="https://www.bishebao.com/wp-content/uploads/2024/06/image_5-5.png" alt="" width="1910" height="400" /> <img class="aligncenter size-full wp-image-13552" src="https://www.bishebao.com/wp-content/uploads/2024/06/image_6-5.png" alt="" width="1910" height="400" /> <img class="aligncenter size-full wp-image-13553" src="https://www.bishebao.com/wp-content/uploads/2024/06/image_7-5.png" alt="" width="1910" height="400" /> <img class="aligncenter size-full wp-image-13554" src="https://www.bishebao.com/wp-content/uploads/2024/06/image_8-5.png" alt="" width="1910" height="400" /> <img class="aligncenter size-full wp-image-13555" src="https://www.bishebao.com/wp-content/uploads/2024/06/image_9-5.png" alt="" width="1910" height="400" /> <img class="aligncenter size-full wp-image-13556" src="https://www.bishebao.com/wp-content/uploads/2024/06/image_10-4.png" alt="" width="1910" height="400" /> <img class="aligncenter size-full wp-image-13557" src="https://www.bishebao.com/wp-content/uploads/2024/06/image_11.png" alt="" width="1910" height="400" /> <img class="aligncenter size-full wp-image-13558" src="https://www.bishebao.com/wp-content/uploads/2024/06/image_12.png" alt="" width="1910" height="400" /> <img class="aligncenter size-full wp-image-13559" src="https://www.bishebao.com/wp-content/uploads/2024/06/image_1-5.png" alt="" width="1910" height="400" /> <img class="aligncenter size-full wp-image-13560" src="https://www.bishebao.com/wp-content/uploads/2024/06/image_2-5.png" alt="" width="1910" height="400" /> <img class="aligncenter size-full wp-image-13561" src="https://www.bishebao.com/wp-content/uploads/2024/06/image_3-5.png" alt="" width="1910" height="400" />
